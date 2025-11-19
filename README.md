@@ -27,7 +27,7 @@ To run the application locally, you need Python and the required dependencies.
 💡 Future Works
 Future efforts will focus on improving robustness in noisy environments, expanding language coverage, and handling mixed-language input (code-switching).
 
-Member - Key Contribution
-Nur Iman Amani Binti Ahmad Akhir - Methodology, ML model implementation, and analysis 
-Fitrah Nur Humaira Binti Muhamad Radaudin - Coding, dataset selection, and deployment.
-Zullaikha Binti Zulzahrin - Literature review, discussion, and future work summary.
+🧑‍💻 Team and their contribution
+1. Nur Iman Amani Binti Ahmad Akhir - Methodology, ML model implementation, and analysis 
+2. Fitrah Nur Humaira Binti Muhamad Radaudin - Coding, dataset selection, and deployment.
+3. Zullaikha Binti Zulzahrin - Literature review, discussion, and future work summary.
