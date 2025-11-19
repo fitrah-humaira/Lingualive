@@ -33,6 +33,5 @@ Future efforts will focus on improving robustness in noisy environments, expandi
 3. Zullaikha Binti Zulzahrin - Literature review, discussion, and future work summary.
 
 📝 Author
-Fitrah Humaira Student, CSCI 2304 Intelligent Systems
-
+Fitrah Nur Humaira
 **This project is for educational purposes.**
