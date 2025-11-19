@@ -1,4 +1,4 @@
-#LinguaLive: Real-Time Language Detection System
+**LinguaLive: Real-Time Language Detection System**
 
 Hello! Welcome to LinguaLive, a project developed for the CSCI 2304 Intelligent Systems course at the International Islamic University Malaysia (IIUM).
 
@@ -31,3 +31,8 @@ Future efforts will focus on improving robustness in noisy environments, expandi
 1. Nur Iman Amani Binti Ahmad Akhir - Methodology, ML model implementation, and analysis 
 2. Fitrah Nur Humaira Binti Muhamad Radaudin - Coding, dataset selection, and deployment.
 3. Zullaikha Binti Zulzahrin - Literature review, discussion, and future work summary.
+
+📝 Author
+Fitrah Humaira Student, CSCI 2304 Intelligent Systems
+
+**This project is for educational purposes.**
