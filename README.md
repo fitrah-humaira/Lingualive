@@ -37,8 +37,10 @@ Future efforts will focus on improving robustness in noisy environments, expandi
 2. Fitrah Nur Humaira Binti Muhamad Radaudin - Coding, dataset selection, and deployment.
 3. Zullaikha Binti Zulzahrin - Literature review, discussion, and future work summary.
 
-📝 Author
 
-Fitrah Nur Humaira
 
-**This project is for educational purposes.**
+***📝 Author***
+
+***Fitrah Nur Humaira***
+
+***This project is for educational purposes.***
