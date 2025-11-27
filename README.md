@@ -33,7 +33,7 @@ Future efforts will focus on improving robustness in noisy environments, expandi
 
 ## 🧑‍💻 Team and their contribution
 
-1. Nur Iman Amani Binti Ahmad Akhir - Methodology, ML model implementation, and analysis 
+1. Nur Iman Amani Binti Ahmad Akhir - Methodology, ML model implementation, and analysis (https://github.com/ImanAkhir)
 2. Fitrah Nur Humaira Binti Muhamad Radaudin - Coding, dataset selection, and deployment.
 3. Zullaikha Binti Zulzahrin - Literature review, discussion, and future work summary.
 
